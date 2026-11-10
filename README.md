@@ -36,5 +36,5 @@ It features a hacker-style terminal interface with colored text, a simple menu, 
 
 ## Author
 
-Dark_Code.PK
+Haseeb Ali
 
